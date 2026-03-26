@@ -10,8 +10,12 @@ Designed and deployed a microservices-based REST API for pet inventory managemen
 
 ### 🏓 AI Table Tennis Analyzer
 
-Developed an automated sports analytics system for tracking players in match footage and analyzing spatial movement patterns using heatmaps and coordinate extraction.
-**Tech:** YOLO, ByteTrack, SciPy, Python
+Built a multi-module computer vision pipeline for table-tennis broadcast analysis:    
+real-time player tracking (YOLOv8 + ByteTrack), pose-based shot classification 
+(forehand/backhand/smash via wrist velocity peak detection), scoreboard OCR (EasyOCR),
+and progressive heatmap generation. Outputs annotated video with live score overlay 
+and shot labels. 
+**Tech:** Python, YOLOv8, EasyOCR, OpenCV, SciPy 🔗
 🔗 https://github.com/almatamir/tt-vision
 
 ---

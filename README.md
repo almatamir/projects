@@ -12,7 +12,7 @@ Designed and deployed a microservices-based REST API for pet inventory managemen
 
 Developed an automated sports analytics system for tracking players in match footage and analyzing spatial movement patterns using heatmaps and coordinate extraction.
 **Tech:** YOLO, ByteTrack, SciPy, Python
-🔗 https://github.com/almatamir/exercise-2.1
+🔗 https://github.com/almatamir/tt-vision
 
 ---
 

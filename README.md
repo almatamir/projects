@@ -6,6 +6,8 @@ Built an end-to-end deep learning pipeline that classifies photos and recommends
 **Tech**: Python, TensorFlow, Keras, ResNet50V2, Flask, Google Gemini API, OpenCV
 🔗 https://github.com/almatamir/photo-mood-classifier
 
+---
+
 ### ☁️ Cloud Computing & Software Engineering
 
 Designed and deployed a microservices-based REST API for pet inventory management. The system is containerized with Docker and Docker Compose, uses an NGINX reverse proxy for load balancing, and includes a fully automated CI/CD pipeline with GitHub Actions and Pytest.

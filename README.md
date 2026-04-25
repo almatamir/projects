@@ -1,5 +1,11 @@
 ## 🚀 Projects
 
+### 🎵 Image Classification & Music Recommendation
+
+Built an end-to-end deep learning pipeline that classifies photos and recommends music for Instagram stories. Designed a hierarchical architecture where a parent model (ResNet50V2) identifies broad scene categories and specialist sub-models refine predictions into subcategories. Addressed real-world ML challenges including overfitting (dropout, L2 regularization, early stopping), class imbalance (class-weighted training), and custom dataset construction via Unsplash API. Classification output is passed to Google Gemini AI to generate contextual song recommendations, served via a REST API.
+**Tech**: Python, TensorFlow, Keras, ResNet50V2, Flask, Google Gemini API, OpenCV
+🔗 https://github.com/almatamir/photo-mood-classifier
+
 ### ☁️ Cloud Computing & Software Engineering
 
 Designed and deployed a microservices-based REST API for pet inventory management. The system is containerized with Docker and Docker Compose, uses an NGINX reverse proxy for load balancing, and includes a fully automated CI/CD pipeline with GitHub Actions and Pytest.
